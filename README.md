@@ -1,24 +1,24 @@
-<h1 align="center">Hi 👋, I'm Umadevi Bogathi</h1>
+<h1 align="center">Hi 👋, I'm Umadevi B</h1>
 
 <div align="center" style="display: flex; justify-content: center; align-items: flex-start; gap: 40px;">
-  <!-- Image -->
+
+  <!-- Lady Coder Image -->
   <div>
-    <img alt="Female Developer" width="500" src="https://res.cloudinary.com/dk8x0cl0c/image/upload/v1720000000/female_coder_static.jpg">
+    <img alt="Female Developer" width="480" src="https://res.cloudinary.com/dk8x0cl0c/image/upload/v1759552394/Screenshot_2025-10-04_095922_rzce9u.png">
   </div>
+
+</div>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&pause=1000&color=00FFFF&background=B3FFE500&center=true&random=false&width=600&lines=Full+Stack+Web+Developer;600+Hours+of+Coding+Experience" alt="Typing SVG" />
+  <img src="https://komarev.com/ghpvc/?username=ShivaBoya&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" /> 
 </p>
 
-
-  <!-- Text on the side -->
-  <div align="left">
-    <p>💬 Ask me about <i>MERN, DSA</i></p>
-    <p>📫 How to reach me: <i>bogathiu@gmail.com</i></p>
-    <p>🌐 Portfolio: <a ">Visit Here</a></p>
-    <p>⚡ Fun fact: <i>Think funny</i></p>
-    <p>Passionate about building innovative projects and continuously learning new technologies.</p>
-  </div>
+<div align="center">
+  <p>💬 Ask me about <i>MERN, DSA</i></p>
+  <p>📫 How to reach me: <i>bogathiu@gmail.com</i></p>
+  <p>🌐 Portfolio: <a href="">Visit Here</a></p>
+  <p>⚡ Fun fact: <i>Think funny</i></p>
+  <p>Passionate about building innovative projects and continuously learning new technologies.</p>
 </div>
 
 ---
@@ -53,10 +53,24 @@
 ---
 
 ## 🤝 Let's Connect  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/boyashiva)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-00C853?style=for-the-badge&logo=google-chrome&logoColor=white)](https://shiva-portfolio-beta.vercel.app/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shivasiddu80@gmail.com)  
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/umadevi-bogathi-58404b312/)  
+[![Portfolio](https://img.shields.io/badge/Portfolio-00C853?style=for-the-badge&logo=google-chrome&logoColor=white)]()  
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bogathiu@gmail.com)  
 
 ---
 
+## 📄 View Resume  
+🎯 [**Click here to view my resume**](https://drive.google.com/file/d/1iCDrxeXZ_oqKYqxy1j_tnil9FMNFn_FI/view?usp=drivesdk)
 
+---
+
+## 📊 GitHub Stats  
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShivaBoya&layout=compact&theme=radical" alt="Top Languages" height="170"/>
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api?username=ShivaBoya&show_icons=true&theme=radical" alt="GitHub Stats" height="170"/>
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ShivaBoya&theme=radical" alt="Streak Stats" height="170"/>
+</div>
