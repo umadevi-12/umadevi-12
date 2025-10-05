@@ -3,12 +3,12 @@
 
 <p align="center">
   <a href="https://res.cloudinary.com/dk8x0cl0c/image/upload/v1759664912/coding_img_l57yfu.avif" target="_blank">
-    <img src="https://res.cloudinary.com/dk8x0cl0c/image/upload/v1759664912/coding_img_l57yfu.avif" alt="Female Developer" width="480"/>
+    <img src="https://res.cloudinary.com/dk8x0cl0c/image/upload/v1759664912/coding_img_l57yfu.avif" alt="Female Developer" width="350"/>
   </a>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=24&pause=1000&color=00FFFF&center=true&width=500&lines=Frontend+Developer;Firebase+%7C+React+%7C+TailwindCSS;Building+Interactive+Web+Experiences" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=24&pause=1000&color=FF69B4&center=true&width=400&lines=Frontend+Developer;Firebase+%7C+React+%7C+TailwindCSS;Building+Interactive+Web+Experiences" alt="Typing SVG" />
 </p>
 
 ---
