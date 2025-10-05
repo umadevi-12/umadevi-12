@@ -14,25 +14,14 @@
 
 ---
 
-### 👩‍💻 About Me  
-
-- 🔭 I’m currently working on **[RecipeSharingPlatform_Food](https://benevolent-froyo-5df7f2.netlify.app/)**  
-  📂 GitHub: [umadevi-12/RecipeSharingPlatform_Food](https://github.com/umadevi-12/RecipeSharingPlatform_Food)
-
-- 🌱 I’m currently learning **Next.js, TypeScript, Cloudinary, TailwindCSS, Firebase**
-
-- 👯 I’m looking to collaborate on **[Property Listing Platform](https://wondrous-truffle-b8ccaa.netlify.app/)**
-
-- 🤝 I’m looking for help with **[Virtual Classroom](https://virtual-classroom-rkan.vercel.app/)**  
-  📂 GitHub: [umadevi-12/Virtual_Classroom](https://github.com/umadevi-12/Virtual_Classroom)
-
-- 💬 Ask me about **Frontend development best practices** and **building full-stack MERN apps**
-
-- 📫 Reach me at **bogathiu@gmail.com**
-
-- ⚡ Fun fact: *“Code is like humor. When you have to explain it, it’s bad.”* 😄  
-
----
+### 👩‍💻 About Me   
+<div align="left">
+  <p>💬 Ask me about <i>Frontend Development, DSA, System Design</i></p>
+  <p>📫 How to reach me: <i>bogathiu@gmail.com</i></p>
+  <p>🌐 Portfolio: <a href="https://shiva-portfolio-beta.vercel.app/">Visit Here</a></p>
+  <p>⚡ Fun fact: <i>I write “Hello World” more than I say “Hello” to people.</i></p>
+  <p>Passionate about building innovative projects and continuously learning new technologies.</p>
+</div>
 
 ### 🌐 Connect with Me  
 <p align="left">
@@ -40,7 +29,7 @@
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
   </a>
   <a href="mailto:bogathiu@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=black" />
   </a>
 </p>
 
