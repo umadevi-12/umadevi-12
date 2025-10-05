@@ -3,7 +3,7 @@
 
 <p align="center">
   <a href="https://res.cloudinary.com/dk8x0cl0c/image/upload/v1759664912/coding_img_l57yfu.avif" target="_blank">
-    <img src="https://res.cloudinary.com/dk8x0cl0c/image/upload/v1759664912/coding_img_l57yfu.avif" alt="Female Developer" width="250"/>
+    <img src="https://res.cloudinary.com/dk8x0cl0c/image/upload/v1759664912/coding_img_l57yfu.avif" alt="Female Developer" width="200"/>
   </a>
 </p>
 
