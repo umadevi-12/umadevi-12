@@ -3,7 +3,7 @@
 
 <p align="center">
   <a href="https://res.cloudinary.com/dk8x0cl0c/image/upload/v1759664912/coding_img_l57yfu.avif" target="_blank">
-    <img src="https://img.freepik.com/premium-vector/software-developer-vector-illustration-communication-technology-cyber-security_382675980.jpg" alt="Female Developer" width="480"/>
+    <img src=https://res.cloudinary.com/dk8x0cl0c/image/upload/v1759664912/coding_img_l57yfu.avif" alt="Female Developer" width="480"/>
   </a>
 </p>
 
