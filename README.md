@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Frontend Developer from India 🇮🇳</h3>
 
 <p align="center">
-  <a href="https://www.freepik.com/premium-vector/software-developer-vector-illustration-communication-technology-cyber-security_382675980.htm#fromView=keyword&page=1&position=29&uuid=002ebecd-1b17-488f-b2b5-d581fae71a9b&query=Female+programmer" target="_blank">
+  <a href="https://res.cloudinary.com/dk8x0cl0c/image/upload/v1759664912/coding_img_l57yfu.avif" target="_blank">
     <img src="https://img.freepik.com/premium-vector/software-developer-vector-illustration-communication-technology-cyber-security_382675980.jpg" alt="Female Developer" width="480"/>
   </a>
 </p>
