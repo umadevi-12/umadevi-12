@@ -3,7 +3,7 @@
 
 <p align="center">
   <a href="https://res.cloudinary.com/dk8x0cl0c/image/upload/v1759664912/coding_img_l57yfu.avif" target="_blank">
-    <img src="https://res.cloudinary.com/dk8x0cl0c/image/upload/v1759664912/coding_img_l57yfu.avif" alt="Female Developer" width="350"/>
+    <img src="https://res.cloudinary.com/dk8x0cl0c/image/upload/v1759664912/coding_img_l57yfu.avif" alt="Female Developer" width="250"/>
   </a>
 </p>
 
@@ -16,12 +16,13 @@
 
 ### 👩‍💻 About Me   
 <div align="left">
-  <p>💬 Ask me about <i>Frontend Development, DSA, System Design</i></p>
-  <p>📫 How to reach me: <i>bogathiu@gmail.com</i></p>
-  <p>🌐 Portfolio: <a href="https://shiva-portfolio-beta.vercel.app/">Visit Here</a></p>
+  <p>💬 Ask me about <i>Aspiring Full-Stack Developer</i></p>
+  <p>📫 How to reach me: <a href="mailto:bogathiu@gmail.com">bogathiu@gmail.com</a></p>
+  <p>🌐 Portfolio: <a href="">Visit Here</a></p>
   <p>⚡ Fun fact: <i>I write “Hello World” more than I say “Hello” to people.</i></p>
   <p>Passionate about building innovative projects and continuously learning new technologies.</p>
 </div>
+
 
 ### 🌐 Connect with Me  
 <p align="left">
