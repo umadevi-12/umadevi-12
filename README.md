@@ -1,76 +1,160 @@
-<h1 align="center">Hi 👋, I'm Umadevi B</h1>
-
-<div align="center" style="display: flex; justify-content: center; align-items: flex-start; gap: 40px;">
-
-  <!-- Lady Coder Image -->
-  <div>
-    <img alt="Female Developer" width="480" src="https://res.cloudinary.com/dk8x0cl0c/image/upload/v1759552394/Screenshot_2025-10-04_095922_rzce9u.png">
-  </div>
-
-</div>
+<h1 align="center">Hi 👋, I'm Umadevi</h1>
+<h3 align="center">A passionate Frontend Developer from India 🇮🇳</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ShivaBoya&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" /> 
+  <img src="<h1 align="center">Hi 👋, I'm Umadevi</h1>
+<h3 align="center">A passionate Frontend Developer from India 🇮🇳</h3>
+
+<p align="center">
+  <img src="https://res.cloudinary.com/dk8x0cl0c/image/upload/v1759552394/Screenshot_2025-10-04_095922_rzce9u.png" alt="Female Developer" width="480"/>
 </p>
 
-<div align="center">
-  <p>💬 Ask me about <i>MERN, DSA</i></p>
-  <p>📫 How to reach me: <i>bogathiu@gmail.com</i></p>
-  <p>🌐 Portfolio: <a href="">Visit Here</a></p>
-  <p>⚡ Fun fact: <i>Think funny</i></p>
-  <p>Passionate about building innovative projects and continuously learning new technologies.</p>
-</div>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=24&pause=1000&color=00FFFF&center=true&vCenter=true&width=500&lines=Frontend+Developer;Firebase+%7C+React+%7C+TailwindCSS;Building+Interactive+Web+Experiences" alt="Typing SVG" />
+</p>
 
 ---
 
-## 🚀 Tech Stack  
+### 👩‍💻 About Me  
 
-### Frontend  
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) 
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) 
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) 
-![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)  
-![Chakra UI](https://img.shields.io/badge/Chakra--UI-319795?style=for-the-badge&logo=chakra-ui&logoColor=white) 
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white) 
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white) 
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)  
+- 🔭 I’m currently working on **[RecipeSharingPlatform_Food](https://benevolent-froyo-5df7f2.netlify.app/)**  
+  📂 GitHub: [umadevi-12/RecipeSharingPlatform_Food](https://github.com/umadevi-12/RecipeSharingPlatform_Food)
 
-### Backend  
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white) 
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)  
+- 🌱 I’m currently learning **Next.js, TypeScript, Cloudinary, TailwindCSS, Firebase**
 
-### Database  
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white) 
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)  
+- 👯 I’m looking to collaborate on **[Property Listing Platform](https://wondrous-truffle-b8ccaa.netlify.app/)**
 
-### Tools & Technologies  
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) 
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white) 
-![NPM](https://img.shields.io/badge/NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white) 
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)  
+- 🤝 I’m looking for help with **[Virtual Classroom](https://virtual-classroom-rkan.vercel.app/)**  
+  📂 GitHub: [umadevi-12/Virtual_Classroom](https://github.com/umadevi-12/Virtual_Classroom)
+
+- 💬 Ask me about **Frontend development best practices** and **building full-stack MERN apps**
+
+- 📫 Reach me at **bogathiu@gmail.com**
+
+- ⚡ Fun fact: *“Code is like humor. When you have to explain it, it’s bad.”* 😄  
 
 ---
 
-## 🤝 Let's Connect  
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/umadevi-bogathi-58404b312/)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-00C853?style=for-the-badge&logo=google-chrome&logoColor=white)]()  
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bogathiu@gmail.com)  
+### 🌐 Connect with Me  
+<p align="left">
+  <a href="https://www.linkedin.com/in/umadevi-bogathi-58404b312" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+  </a>
+  <a href="mailto:bogathiu@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
 
 ---
 
-## 📄 View Resume  
-🎯 [**Click here to view my resume**](https://drive.google.com/file/d/1iCDrxeXZ_oqKYqxy1j_tnil9FMNFn_FI/view?usp=drivesdk)
+### 🧰 Languages and Tools  
+
+<p align="left">
+  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="45" height="45"/> </a>
+  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="45" height="45"/> </a>
+  <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="45" height="45"/> </a>
+  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="45" height="45"/> </a>
+  <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="45" height="45"/> </a>
+  <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="45" height="45"/> </a>
+  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="45" height="45"/> </a>
+  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="45" height="45"/> </a>
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="45" height="45"/> </a>
+  <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="45" height="45"/> </a>
+</p>
 
 ---
 
-## 📊 GitHub Stats  
+### 📄 View My Resume  
+🎯 [**Click here to view my resume**](https://drive.google.com/file/d/1iCDrxeXZ_oqKYqxy1j_tnil9FMNFn_FI/preview)
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShivaBoya&layout=compact&theme=radical" alt="Top Languages" height="170"/>
+---
+
+### 📊 GitHub Stats  
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=umadevi-12&show_icons=true&theme=radical" alt="Umadevi's GitHub stats" height="180"/>
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api?username=ShivaBoya&show_icons=true&theme=radical" alt="GitHub Stats" height="170"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=umadevi-12&theme=radical" alt="GitHub Streak" height="180"/>
   <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ShivaBoya&theme=radical" alt="Streak Stats" height="170"/>
-</div>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=umadevi-12&layout=compact&theme=radical" alt="Top Languages" height="180"/>
+</p>
+
+---
+
+💡 *"Building ideas into reality — one line of code at a time."* ✨
+" alt="Female Developer" width="480"/>
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=24&pause=1000&color=00FFFF&center=true&vCenter=true&width=500&lines=Frontend+Developer;Firebase+%7C+React+%7C+TailwindCSS;Building+Interactive+Web+Experiences" alt="Typing SVG" />
+</p>
+
+---
+
+### 👩‍💻 About Me  
+
+- 🔭 I’m currently working on **[RecipeSharingPlatform_Food](https://benevolent-froyo-5df7f2.netlify.app/)**  
+  📂 GitHub: [umadevi-12/RecipeSharingPlatform_Food](https://github.com/umadevi-12/RecipeSharingPlatform_Food)
+
+- 🌱 I’m currently learning **Next.js, TypeScript, Cloudinary, TailwindCSS, Firebase**
+
+- 👯 I’m looking to collaborate on **[Property Listing Platform](https://wondrous-truffle-b8ccaa.netlify.app/)**
+
+- 🤝 I’m looking for help with **[Virtual Classroom](https://virtual-classroom-rkan.vercel.app/)**  
+  📂 GitHub: [umadevi-12/Virtual_Classroom](https://github.com/umadevi-12/Virtual_Classroom)
+
+- 💬 Ask me about **Frontend development best practices** and **building full-stack MERN apps**
+
+- 📫 Reach me at **bogathiu@gmail.com**
+
+- ⚡ Fun fact: *“Code is like humor. When you have to explain it, it’s bad.”* 😄  
+
+---
+
+### 🌐 Connect with Me  
+<p align="left">
+  <a href="https://www.linkedin.com/in/umadevi-bogathi-58404b312" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+  </a>
+  <a href="mailto:bogathiu@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
+---
+
+### 🧰 Languages and Tools  
+
+<p align="left">
+  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="45" height="45"/> </a>
+  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="45" height="45"/> </a>
+  <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="45" height="45"/> </a>
+  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="45" height="45"/> </a>
+  <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="45" height="45"/> </a>
+  <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="45" height="45"/> </a>
+  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="45" height="45"/> </a>
+  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="45" height="45"/> </a>
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="45" height="45"/> </a>
+  <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="45" height="45"/> </a>
+</p>
+
+---
+
+### 📄 View My Resume  
+🎯 [**Click here to view my resume**](https://drive.google.com/file/d/1iCDrxeXZ_oqKYqxy1j_tnil9FMNFn_FI/preview)
+
+---
+
+### 📊 GitHub Stats  
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=umadevi-12&show_icons=true&theme=radical" alt="Umadevi's GitHub stats" height="180"/>
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=umadevi-12&theme=radical" alt="GitHub Streak" height="180"/>
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=umadevi-12&layout=compact&theme=radical" alt="Top Languages" height="180"/>
+</p>
+
+---
+
+💡 *"Building ideas into reality — one line of code at a time."* ✨
