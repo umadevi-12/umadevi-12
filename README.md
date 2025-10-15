@@ -70,7 +70,7 @@
 ---
 
 ### 📄 View My Resume  
-🎯 [**Click here to view my resume**](https://drive.google.com/file/d/1iCDrxeXZ_oqKYqxy1j_tnil9FMNFn_FI/preview)
+🎯 [**Click here to view my resume**](https://drive.google.com/file/d/1BdhkBv9Boa6wqXVLfB5JCCjOuefK6kwC/view?usp=sharing)
 
 ---
 
