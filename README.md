@@ -18,7 +18,7 @@
 <div align="left">
   <p>💬 Ask me about <i>Aspiring Full-Stack Developer</i></p>
   <p>📫 How to reach me: <a href="mailto:bogathiu@gmail.com">bogathiu@gmail.com</a></p>
-  <p>🌐 Portfolio: <a href="https://uma-portfolio-azure.vercel.app/">Visit Here</a></p>
+  <p>🌐 Portfolio: <a href="https://uma-portfolio-lime.vercel.app/">Visit Here</a></p>
   <p>⚡ Fun fact: <i>I write “Hello World” more than I say “Hello” to people.</i></p>
   <p>Passionate about building innovative projects and continuously learning new technologies.</p>
 </div>
